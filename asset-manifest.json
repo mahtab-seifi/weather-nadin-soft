@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/weather-nadin-soft/static/css/main.12cb3940.css",
+    "main.js": "/weather-nadin-soft/static/js/main.643d0f80.js",
+    "static/js/453.7dc4ab60.chunk.js": "/weather-nadin-soft/static/js/453.7dc4ab60.chunk.js",
+    "static/media/rain.png": "/weather-nadin-soft/static/media/rain.95c90bde4281a68257a1.png",
+    "static/media/wind.png": "/weather-nadin-soft/static/media/wind.dcf600597af929dbb51f.png",
+    "static/media/moon.png": "/weather-nadin-soft/static/media/moon.ff2ec5b812ec42f82c5b.png",
+    "static/media/logo.png": "/weather-nadin-soft/static/media/logo.856b44797307f587303e.png",
+    "static/media/bootstrap-icons.woff?": "/weather-nadin-soft/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/rainy-day.png": "/weather-nadin-soft/static/media/rainy-day.360ca91fe15ebe79369b.png",
+    "static/media/bootstrap-icons.woff2?": "/weather-nadin-soft/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/clear-day.png": "/weather-nadin-soft/static/media/clear-day.eed63adf09746f871d5a.png",
+    "static/media/partly-cloud.png": "/weather-nadin-soft/static/media/partly-cloud.c3c9760cef255f117d75.png",
+    "index.html": "/weather-nadin-soft/index.html",
+    "main.12cb3940.css.map": "/weather-nadin-soft/static/css/main.12cb3940.css.map",
+    "main.643d0f80.js.map": "/weather-nadin-soft/static/js/main.643d0f80.js.map",
+    "453.7dc4ab60.chunk.js.map": "/weather-nadin-soft/static/js/453.7dc4ab60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12cb3940.css",
+    "static/js/main.643d0f80.js"
+  ]
+}
